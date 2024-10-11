@@ -25,18 +25,18 @@ This is a curated list of free courses from reputable universities that satisfy 
 
 | Courses                                                                              |  School   | Duration |     Effort      | Frequency  | Prerequisites | Status |
 | :----------------------------------------------------------------------------------- | :-------: | :------: | :-------------: | :--------: | :-----------: | :----: |
-| Calculus 1                                                                           |    URI    | 12 weeks | 6-10 hours/week |     /      | Pre-calculus  |   ✔️   |
-| [Linear Algebra](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 weeks | 6-10 hours/week | self-paced | Pre-calculus  |
-| Pre-calculus                                                                         |    URI    | 12 weeks | 6-10 hours/week |     /      |    Algebra    |   ✔️   |
-| Introduction to Probability and Statistics                                           |    URI    | 12 weeks | 6-10 hours/week |     /      |    Algebra    |   ✔️   |
-| Algebra                                                                              |    URI    | 12 weeks | 6-10 hours/week |     /      |     none      |   ✔️   |
+| Calculus 1                                                                           |    URI    | 12 weeks | 6-10 hours/week |     /      | Pre-calculus  |      |
+| [Linear Algebra](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 weeks | 6-10 hours/week | self-paced | Pre-calculus  |      |
+| Pre-calculus                                                                         |    URI    | 12 weeks | 6-10 hours/week |     /      |    Algebra    |      |
+| Introduction to Probability and Statistics                                           |    URI    | 12 weeks | 6-10 hours/week |     /      |    Algebra    |      |
+| Algebra                                                                              |    URI    | 12 weeks | 6-10 hours/week |     /      |     none      |   ⌚   |
 
 ## Systems
 
 | Courses                                                                                                                                                                                              |             School             | Duration |      Effort      |   Frequency   |                             Prerequisites                             | Status |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------: | :------: | :--------------: | :-----------: | :-------------------------------------------------------------------: | :----: |
-| [Build a Modern Computer from First Principles: From Nand to Tetris](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fbuild-a-computer) | Hebrew University of Jerusalem | 6 weeks  |   5 hours/week   | twice a month |                      basic programming knowledge                      |   ✔️   |
-| [Build a Modern Computer from First Principles: From Nand to Tetris II](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fnand2tetris2)  | Hebrew University of Jerusalem | 6 weeks  | 10-15 hours/week | once a month  |  Build a Modern Computer from First Principles: From Nand to Tetris   | ✔️ |
+| [Build a Modern Computer from First Principles: From Nand to Tetris](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fbuild-a-computer) | Hebrew University of Jerusalem | 6 weeks  |   5 hours/week   | twice a month |                      basic programming knowledge                      |      |
+| [Build a Modern Computer from First Principles: From Nand to Tetris II](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fnand2tetris2)  | Hebrew University of Jerusalem | 6 weeks  | 10-15 hours/week | once a month  |  Build a Modern Computer from First Principles: From Nand to Tetris   |      |
 | [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)                                                                                                       |          University of Wisconsin-Madison/UCLA         | self-paced |  5-8 hours/week  |  self-paced   | Build a Modern Computer from First Principles: From Nand to Tetris II |
 
 ## Theory
@@ -52,7 +52,7 @@ This is a curated list of free courses from reputable universities that satisfy 
 | Courses                                                                                                                                            |         School         | Duration |     Effort     |   Frequency   |                                  Prerequisites                                   | Status |
 | :------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------: | :------: | :------------: | :-----------: | :------------------------------------------------------------------------------: | :----: |
 | [Machine Learning](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fmachine-learning) |        Stanford        | 11 weeks | 5-7 hours/week | twice a month |                    Linear Algebra - Foundations to Frontiers                     |
-| [Database Management Essentials](https://www.coursera.org/learn/database-management)                                                               | University of Colorado | 7 weeks  | 4-6 hours/week | twice a month |                         basic programming & CS knowledge                         |   ✔️   |
+| [Database Management Essentials](https://www.coursera.org/learn/database-management)                                                               | University of Colorado | 7 weeks  | 4-6 hours/week | twice a month |                         basic programming & CS knowledge                         |      |
 | [Cryptography I ](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcrypto)            |        Stanford        | 7 weeks  |  5 hours/week  | once a month  | Linear Algebra - Foundations to Frontiers & Introduction to Probability and Data |
 
 ## Unix
